@@ -1,6 +1,6 @@
 
 import Window from "../components/Window";
-import { Code, Palette, Football } from "lucide-react";
+import { Code, Palette, Dumbbell } from "lucide-react";
 
 const Hobbies = () => {
   return (
@@ -52,7 +52,7 @@ const Hobbies = () => {
             
             <div className="bg-white/5 p-6 rounded-lg">
               <div className="bg-accent/20 p-3 rounded-full w-fit mb-4">
-                <Football className="h-6 w-6 text-accent" />
+                <Dumbbell className="h-6 w-6 text-accent" />
               </div>
               <h3 className="text-xl font-bold text-accent mb-2">Football</h3>
               <p className="text-white/80">
